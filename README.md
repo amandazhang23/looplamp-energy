@@ -14,4 +14,7 @@ You may want to consult the [Adafruit Guide](https://learn.adafruit.com/digital-
 ![wires](https://learn.adafruit.com/system/assets/assets/000/001/589/medium800/raspberry_pi_diagram.png?1396774138)
 
 ### Programming
-The lights are bit-addressable. See `paint.py` for the conversion chart. You will need the [RPi](https://pypi.python.org/pypi/RPi.GPIO) library installed. 
+The lights are bit-addressable. See `paint.py` for the conversion chart. You will need the [RPi](https://pypi.python.org/pypi/RPi.GPIO) library installed.
+
+### Data
+The data lives in `/data`. Due to the sensitive nature of it, it is not sharable on github. 
